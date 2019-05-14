@@ -3,3 +3,9 @@ body {
     margin: 20%;
     font-size: 50px;
 }
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: green; 
+}
